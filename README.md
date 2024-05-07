@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Cyduart&color=006bed)
+
 
 ## Sobre mim
 
@@ -25,12 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-
-<br/>
-
-<a href="https://github.com/Cyduart" title="Perfil do Cayo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyduart&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
